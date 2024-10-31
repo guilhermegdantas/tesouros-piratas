@@ -69,3 +69,8 @@ details{
     width: 100px; 
     cursor: pointer;
 }
+
+details p {
+    width: 400px;
+    cursor: default; 
+}
